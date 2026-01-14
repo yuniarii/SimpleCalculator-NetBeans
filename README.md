@@ -1,8 +1,7 @@
 # What Is this? 🤔
 
     This is a repo that contains source code about simple basic arithmetic calculator.
-  I use Apache NetBeans Ver. 28.
-Just as same as your calculator on everybody's devices. But not all of this function is work as same as ur device. This apk doesn't support negative numbers that place on the first operations. But it works for the results of the operations.
+It's work just as same as your calculator on everybody's devices. But not all of this function is work as same as ur device. This apk doesn't support negative numbers that place on the first operations. But it works for the results of the operations.
 
 It can process more than one operation. Just for the example:  
 
