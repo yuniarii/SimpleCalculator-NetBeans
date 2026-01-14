@@ -9,9 +9,7 @@ It can process more than one operation. Just for the example:
     3 + 1 x 5 \ 2 = ...
 
 ## How I Operate It On My Device?🤨
-Just download the .zip file and then u install NetBeans and JDK and then run it 😂 JK.  
-
-If u we're super lazy to analyze the source code adn choose to copy mine, I'll tell u how to run it.  
+If u we're super lazy to analyze the source code and rather choose to copy mine, I'll tell u how to run it.  
 1. U must install Java Development Kit (JDK).  U can have it on [Oracle](https://www.oracle.com/java/technologies/downloads/#jdk25-windows)
 2. U must have the IDE for Java. I recommend u to install [NetBeans ver. 28](https://netbeans.apache.org/front/main/index.html)
 3. U have to copy all of the files in this repository
